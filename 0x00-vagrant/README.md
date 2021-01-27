@@ -1,0 +1,3 @@
+In this project we are learning some stuff about Ubuntu, Virtual Machine, Vagrant, etc...
+
+
